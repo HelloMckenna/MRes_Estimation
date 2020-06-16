@@ -1,0 +1,53 @@
+Common,Code,Species,Group,Source,LengthAtMaturityMale,LengthAtMaturityFemale,Lm,mu
+Allis shad,AAS,Alosa alosa,6,rfishbase,32.5,47.5,40,40
+Anchovy,ANE,Engraulis encrasicolus,6,rfishbase,NA,NA,10.33333333,10.33333333
+Anglerfish,MON,Lophius piscatorius,7,rfishbase,NA,50,55.5,53.66666667
+Bib,BIB,Trisopterus luscus,4,rfishbase,19.7,18.3,19,19
+Black seabream,BKS,Spondyliosoma cantharus,4,rfishbase,NA,NA,19.06666667,19.06666667
+Blonde ray,BLR,Raja brachyura,3,rfishbase,100,100,88.91666667,91.6875
+Blue ling,BLI,Molva dypterygia,2,rfishbase,NA,NA,79,79
+Blue whiting,WHB,Micromesistius poutassou,5,rfishbase,18,NA,26.6,24.88
+Blue-mouth redfish,RBM,Helicolenus dactylopterus,7,rfishbase,26,23,24.5,24.5
+Cod,COD,Gadus morhua,4,rfishbase,53,59,51.425,51.93333333
+Common dragonet,CDT,Callionymus lyra,7,"Heessen, Daan and Ellis, 2015",NA,NA,NA,16
+Common ling,LIN,Molva molva,2,rfishbase,NA,NA,74,74
+Cuckoo ray,CUR,Leucoraja naevus,3,rfishbase,NA,NA,57.025,57.025
+Dab,DAB,Limanda limanda,3,rfishbase,NA,NA,15.93076923,15.93076923
+Flounder,FLE,Platichthys flesus,3,rfishbase,19,22,20.43333333,20.45
+Four spot megrim,LBI,Lepidorhombus boscii,3,rfishbase,NA,NA,17,17
+Fourbeard rockling,FRR,Enchelyopus cimbrius,2,rfishbase,NA,NA,25,25
+Great silver smelt,GSS,Argentina silus,5,rfishbase,NA,NA,35.825,35.825
+Greater forkbeard,GFB,Phycis blennoides,7,rfishbase,NA,NA,31.3,31.3
+Grey gurnard,GUG,Eutrigla gurnardus,7,rfishbase,NA,NA,27,27
+Haddock,HAD,Melanogrammus aeglefinus,4,rfishbase,28,33,35.16666667,34
+Hake,HKE,Merluccius merluccius,4,"ICES, 2011",NA,NA,NA,43
+Halibut,HAL,Hippoglossus hippoglossus,3,rfishbase,75.5,122,98.75,98.75
+Herring,HER,Clupea harengus,6,rfishbase,14.25,15,26.66296296,23.91142857
+Horse-mackerel,HOM,Trachurus trachurus,6,rfishbase,NA,NA,18.725,18.725
+John dory,JOD,Zeus faber,4,rfishbase,32,37.75,31.66,33.225
+Lemon sole,LEM,Microstomus kitt,3,rfishbase,NA,NA,30,30
+Lesser spotted dogfish,LSD,Scyliorhinus canicula,7,"Marine Institute, 2012",NA,NA,NA,55
+Long rough dab,PLA,Hippoglossoides platessoides,3,rfishbase,24.96,42.275,30.35,31.94615385
+Long-nose skate,LNS,Dipturus oxyrinchus,3,rfishbase,NA,NA,83,83
+Mackerel,MAC,Scomber scombrus,6,rfishbase,25.9,26.2,27.3,26.88333333
+Megrim,MEG,Lepidorhombus whiffiagonis,3,rfishbase,18.8,25.3,23.22,22.88571429
+Plaice,PLE,Pleuronectes platessa,3,rfishbase,25,28,22.66,23.3
+Poor cod,POD,Trisopterus minutus,4,rfishbase,11,13,13.61428571,13.25555556
+Rabbit fish,RBF,Chimaera monstrosa,4,rfishbase,NA,NA,43.3,43.3
+Red mullet,MUR,Mullus surmuletus,4,rfishbase,NA,13.8,16.61333333,16.4375
+Saithe,POK,Pollachius virens,4,rfishbase,NA,NA,65,65
+Scald fish,SDF,Arnoglossus laterna,3,rfishbase,NA,NA,6.8,6.8
+Seabass,ESB,Dicentrarchus labrax,5,rfishbase,27.25,34,30.82,30.73333333
+Sole,SOL,Solea solea,1,rfishbase,NA,NA,26.4375,26.4375
+Solenette,SOT,Buglossidium luteum,1,rfishbase,NA,NA,8,8
+Spotted ray,SDR,Raja montagui,3,rfishbase,NA,NA,57.56666667,57.56666667
+Sprat,SPR,Sprattus sprattus,6,rfishbase,NA,NA,10.66,10.66
+Spurdog,DGS,Squalus acanthias,5,rfishbase,60,82,72.13333333,71.92727273
+Starry ray,SYR,Amblyraja radiata,3,rfishbase,NA,NA,43,43
+Thornback ray,THR,Raja clavata,3,rfishbase,NA,NA,74.5,74.5
+Tope shark,GAG,Galeorhinus galeus,5,rfishbase,120,134,138,128.5714286
+Turbot,TUR,Scophthalmus maximus,3,rfishbase,NA,NA,21.93333333,21.93333333
+Tusk,USK,Brosme brosme,7,rfishbase,NA,NA,51.725,51.725
+Twaite shad,TAS,Alosa fallax,6,rfishbase,16.5,28.5,22.5,22.5
+Whiting,WHG,Merlangius merlangus,4,rfishbase,NA,29,26.4,26.92
+Witch,WIT,Glyptocephalus cynoglossus,3,rfishbase,NA,NA,29,29
